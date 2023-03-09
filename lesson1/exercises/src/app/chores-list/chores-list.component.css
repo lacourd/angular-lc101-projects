@@ -1,0 +1,13 @@
+.chores {
+    color: blueviolet;
+    font-size: 1.3vw;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+li {
+    font-style: italic;
+}
