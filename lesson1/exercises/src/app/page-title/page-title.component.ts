@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./page-title.component.css']
 })
 export class PageTitleComponent implements OnInit {
-  title = "Darren's Dashboard";
+  title = "Darren’s Dashboard";
   constructor() { }
 
   ngOnInit() {

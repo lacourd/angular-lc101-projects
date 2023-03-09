@@ -3,10 +3,12 @@ h3 {
 }
 
 img {
-   width: 20%;
+   width: 40%;
    height: auto;
 }
 
 .photos {
    text-align: center;
+   border: 2px dashed rebeccapurple;
+   padding-bottom: 5px;
 }
